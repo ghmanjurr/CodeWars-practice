@@ -14,8 +14,6 @@ function digital_root(n) {
     if (sum > 9) {
         return digital_root(sum)
     }
-
-    return sum
-    
+    return sum    
 }
 
