@@ -7,5 +7,15 @@
 function digital_root(n) {
     const arr = Array.from(n.toString()).map(Number)
     console.log(arr)
+    const reducer = (accumulator, currentValue) => accumulator + currentValue
+    const sum  = arr.reduce(reducer)
+    console.log(sum)
+
+    if (sum > 9) {
+        return digital_root(sum)
+    }
+
+    return sum
+    
 }
 
