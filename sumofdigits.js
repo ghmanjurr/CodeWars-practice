@@ -5,5 +5,7 @@
 // 942 --> 9 + 4 + 2 = 15 --> 1 + 5 = 6
 
 function digital_root(n) {
-    
+    const arr = Array.from(n.toString()).map(Number)
+    console.log(arr)
 }
+
