@@ -18,3 +18,19 @@ function findOdd(array) {
     return result;
   }
   console.log(findOdd([1, 2, 2, 2, 4, 4, 4, 4, 4, 4, 5, 5]));
+
+  
+  function findOdd(array){
+      const hash = {}
+      array.forEach(function(x){
+          if(hash[x]) hash[x]++
+          else hash[x] = 1
+      })
+
+      const result = []
+      for(const x in hash) {
+          if(hash[x] % 2)
+          result.push(+x)
+      }
+      return result;
+  }
