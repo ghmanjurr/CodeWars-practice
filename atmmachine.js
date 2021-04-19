@@ -3,3 +3,7 @@
 
 //If the function is passed a valid PIN string, return true, else return false.
 
+//"1234"   -->  true
+//"12345"  -->  false
+//"a234"   -->  false
+
