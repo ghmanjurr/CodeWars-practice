@@ -12,5 +12,7 @@
 //list([ {name: 'Bart'} ])
 // returns 'Bart'
 
-list([])
+//list([])
 // returns ''
+//Note: all the hashes are pre-validated and will only contain A-Z, a-z, '-' and '.'.
+
