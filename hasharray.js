@@ -9,7 +9,7 @@
 //list([ {name: 'Bart'}, {name: 'Lisa'} ])
 // returns 'Bart & Lisa'
 
-list([ {name: 'Bart'} ])
+//list([ {name: 'Bart'} ])
 // returns 'Bart'
 
 list([])
