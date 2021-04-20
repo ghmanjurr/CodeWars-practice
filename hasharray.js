@@ -3,4 +3,6 @@
 //Return: a string formatted as a list of names separated by commas 
 //except for the last two names, which should be separated by an ampersand.
 
+//example: list([ {name: 'Bart'}, {name: 'Lisa'}, {name: 'Maggie'} ])
+// returns 'Bart, Lisa & Maggie'
 
