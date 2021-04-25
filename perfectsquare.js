@@ -11,3 +11,4 @@
 //Examples:
 //findNextSquare(121) --> returns 144
 //findNextSquare(625) --> returns 676
+//findNextSquare(114) --> returns -1 since 114 is not a perfect
