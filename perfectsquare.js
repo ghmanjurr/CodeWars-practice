@@ -7,3 +7,7 @@
 
 //If the parameter is itself not a perfect square then -1 should be returned. 
 //You may assume the parameter is non-negative.
+
+//Examples:
+//findNextSquare(121) --> returns 144
+//findNextSquare(625) --> returns 676
