@@ -5,3 +5,6 @@
 //Examples:
 
 //a = "xyaabbbccccdefww"
+//b = "xxxxyyyyabklmopq"
+//longest(a, b) -> "abcdefklmopqwxy"
+
