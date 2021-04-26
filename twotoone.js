@@ -18,3 +18,7 @@ function longest(s1, s2) {
 longest(s1, s1) => {
     //
 }
+
+const longest = (s1, s2) => {
+    //
+}
