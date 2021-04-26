@@ -15,3 +15,6 @@ function longest(s1, s2) {
     // your code here
   }
 
+longest(s1, s1) => {
+    //
+}
