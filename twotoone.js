@@ -12,6 +12,6 @@
 //longest(a, a) -> "abcdefghijklmnopqrstuvwxyz"
 
 function longest(s1, s2) {
-    // code
+    // your code here
   }
 
