@@ -11,3 +11,7 @@
 //spinWords("This is a test") => "This is a test" 
 //spinWords("This is another test") => "This is rehtona test"
 
+function spinWords(string){
+    // Have fun :)
+  }
+
