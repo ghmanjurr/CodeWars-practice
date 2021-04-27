@@ -6,3 +6,5 @@
 
 //Spaces will be included only when more than one word is present.
 
+//Examples:
+//spinWords("Hey fellow warriors") => "Hey wollef sroirraw" 
