@@ -15,3 +15,6 @@ function spinWords(string){
     // Have fun :)
   }
 
+const spinWords = (string) => {
+    //
+}
