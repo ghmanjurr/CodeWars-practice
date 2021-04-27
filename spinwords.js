@@ -8,3 +8,6 @@
 
 //Examples:
 //spinWords("Hey fellow warriors") => "Hey wollef sroirraw" 
+//spinWords("This is a test") => "This is a test" 
+//spinWords("This is another test") => "This is rehtona test"
+
