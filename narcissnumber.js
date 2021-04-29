@@ -19,3 +19,6 @@ function narcissistic(value){
     //code me to return true or false
 }
 
+const narcissistic = (value) => {
+    //code me to return true or false
+}
