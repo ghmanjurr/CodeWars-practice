@@ -15,4 +15,7 @@
 //Error checking for text strings or other invalid inputs is not required, 
 //only valid positive non-zero integers will be passed into the function.
 
+function narcissistic(value){
+    //code me to return true or false
+}
 
