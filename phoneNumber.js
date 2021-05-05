@@ -14,3 +14,8 @@
 function createPhoneNumber(numbers) {
     //
 }
+
+const createPhoneNumber = (numbers) => {
+    //
+}
+
