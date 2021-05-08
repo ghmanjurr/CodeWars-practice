@@ -30,4 +30,11 @@
 //  25  =>  true
 //  26  =>  false
 
+var isSquare = function(n){
+    return false; //fix me
+}
+
+const isSquare = n => {
+    return false; //fix me
+}
 
