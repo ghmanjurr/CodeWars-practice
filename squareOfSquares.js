@@ -10,3 +10,7 @@
 //Wait! That's it! You just have to check if your number of building 
 //blocks is a perfect square.
 
+//Task
+
+//Given an integral number, determine if it's a square number:
+
