@@ -21,3 +21,10 @@
 //The tests will always use some integral number, so don't worry about 
 //that in dynamic typed languages.
 
+//Examples
+
+//  -1  =>  false
+//   0  =>  true
+//   3  =>  false
+
+
