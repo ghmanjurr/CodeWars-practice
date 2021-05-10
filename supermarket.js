@@ -12,3 +12,7 @@
 
 //n: a positive integer, the number of checkout tills.
 
+//Output
+
+//The function should return an integer, the total time required.
+
