@@ -46,3 +46,11 @@ queueTime([2,3,10], 2)
 //more-computer-science-related idea of a thread pool, 
 //with relation to running multiple processes at the same time: 
 //https://en.wikipedia.org/wiki/Thread_pool
+
+function queueTime(customers, n){
+    //code here
+}
+
+const queueTime = (customers, n) => {
+    //code here
+}
