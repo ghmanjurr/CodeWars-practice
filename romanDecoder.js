@@ -23,3 +23,8 @@ solution('XXI'); // should return 21
 //D          500
 //M          1,000
 
+function solution(roman){
+    //complete the solution by transforming the
+    //string roman numeral into an integer
+}
+
