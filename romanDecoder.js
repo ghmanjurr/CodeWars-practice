@@ -28,3 +28,8 @@ function solution(roman){
     //string roman numeral into an integer
 }
 
+const solution = (roman) => {
+    //complete the solution by transforming the
+    //string roman numeral into an integer
+}
+
