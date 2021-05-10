@@ -12,5 +12,7 @@
 
 //example:
 
+solution('XXI'); // should return 21
+
 
 
