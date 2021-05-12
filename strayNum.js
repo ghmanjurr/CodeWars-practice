@@ -15,3 +15,7 @@
 function stray(numbers){
     return 0;
 }
+
+const stray = (numbers) => {
+    return 0;
+}
