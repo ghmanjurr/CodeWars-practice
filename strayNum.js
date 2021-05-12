@@ -19,3 +19,4 @@ function stray(numbers){
 const stray = (numbers) => {
     return 0;
 }
+
