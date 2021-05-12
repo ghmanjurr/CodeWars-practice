@@ -24,3 +24,6 @@ function sqInRect(lng, wdth){
     //your code here
 }
 
+const sqInRect = (lng, wdth) => {
+    //your code here
+}
