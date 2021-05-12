@@ -19,3 +19,8 @@
 
     //sqInRect(5, 3) should return [3, 2, 1, 1]
     //sqInRect(3, 5) should return [3, 2, 1, 1]
+
+function sqInRect(lng, wdth){
+    //your code here
+}
+
