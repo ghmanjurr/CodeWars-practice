@@ -11,4 +11,7 @@
     //a positive integer length
     //a positive integer width
 
-//
+//You will return a collection or a string (depending on the language; 
+//Shell bash, PowerShell, Pascal and Fortran return a string) with the 
+//size of each of the squares.
+
