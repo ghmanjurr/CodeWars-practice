@@ -5,3 +5,10 @@
 
 //https://i.imgur.com/lk5vJ7sm.jpg
 
+//Can you translate this drawing into an algorithm?
+
+//You will be given two dimensions
+    //a positive integer length
+    //a positive integer width
+
+//
