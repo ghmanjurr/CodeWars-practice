@@ -4,3 +4,6 @@
 //order of the braces is valid. It should return true if the string is valid, 
 //and false if it's invalid.
 
+//This Kata is similar to the Valid Parentheses Kata, but introduces 
+//new characters: brackets [], and curly braces {}.
+
