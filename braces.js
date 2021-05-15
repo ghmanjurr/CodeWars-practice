@@ -27,3 +27,7 @@ function validBraces(braces){
     //code here
 }
 
+const validBraces = (braces) => {
+    //code here
+}
+
