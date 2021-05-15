@@ -15,3 +15,11 @@
 //A string of braces is considered valid if all braces are matched 
 //with the correct brace.
 
+//examples
+
+// "(){}[]"   =>  True
+// "([{}])"   =>  True
+// "(}"       =>  False
+// "[(])"     =>  False
+// "[({})](]" =>  False
+
