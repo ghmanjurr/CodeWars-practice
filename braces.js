@@ -7,3 +7,6 @@
 //This Kata is similar to the Valid Parentheses Kata, but introduces 
 //new characters: brackets [], and curly braces {}.
 
+//All input strings will be nonempty, and will only consist of parentheses, 
+//brackets and curly braces: ()[]{}.
+
