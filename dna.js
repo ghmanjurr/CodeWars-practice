@@ -17,3 +17,7 @@
 //DNAStrand ("ATTGC") // return "TAACG"
 //DNAStrand ("GTAT") // return "CATA" 
 
+function DNAstrand(dna){
+    //your code here
+}
+
