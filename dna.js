@@ -21,3 +21,6 @@ function DNAstrand(dna){
     //your code here
 }
 
+const DNAstrand = (dna) => {
+    //your code here
+}
