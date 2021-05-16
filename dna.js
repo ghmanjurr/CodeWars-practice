@@ -10,3 +10,7 @@
 //complementary side. DNA strand is never empty or there is no DNA 
 //at all (again, except for Haskell).
 
+//More similar exercise are found here http://rosalind.info/problems/list-view/
+
+//example
+
