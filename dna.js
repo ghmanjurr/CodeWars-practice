@@ -14,3 +14,6 @@
 
 //example
 
+//DNAStrand ("ATTGC") // return "TAACG"
+//DNAStrand ("GTAT") // return "CATA" 
+
