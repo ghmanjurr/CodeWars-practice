@@ -15,3 +15,8 @@
 // arithmetic(5, 2, "multiply") => returns 10
 // arithmetic(5, 2, "divide")   => returns 2.5
 
+// ArithmeticFunction.arithmetic(5, 2, "add")      => returns 7
+// ArithmeticFunction.arithmetic(5, 2, "subtract") => returns 3
+// ArithmeticFunction.arithmetic(5, 2, "multiply") => returns 10
+// ArithmeticFunction.arithmetic(5, 2, "divide")   => returns 2
+
