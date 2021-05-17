@@ -20,3 +20,7 @@
 // ArithmeticFunction.arithmetic(5, 2, "multiply") => returns 10
 // ArithmeticFunction.arithmetic(5, 2, "divide")   => returns 2
 
+function arithmetic(a, b, operator){
+    //your code here
+}
+
