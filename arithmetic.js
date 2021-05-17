@@ -24,3 +24,7 @@ function arithmetic(a, b, operator){
     //your code here
 }
 
+const arithmetic = (a, b, operator) => {
+    //your code here
+}
+
