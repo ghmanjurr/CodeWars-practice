@@ -8,3 +8,10 @@
 
 //The four operators are "add", "subtract", "divide", "multiply".
 
+//A few examples:
+
+// arithmetic(5, 2, "add")      => returns 7
+// arithmetic(5, 2, "subtract") => returns 3
+// arithmetic(5, 2, "multiply") => returns 10
+// arithmetic(5, 2, "divide")   => returns 2.5
+
