@@ -9,3 +9,7 @@
 //2008 is written as 2000=MM, 8=VIII; or MMVIII. 1666 uses each Roman symbol 
 //in descending order: MDCLXVI.
 
+//example:
+
+//solution(1000); // should return 'M'
+
