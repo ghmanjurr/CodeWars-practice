@@ -27,3 +27,8 @@ function diamond(n){
     return diam;
 }
 
+const diamond = (n) =>{
+    //code here
+    return diam;
+}
+
