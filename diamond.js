@@ -13,3 +13,12 @@
 //Return null/nil/None/... if the input is an even number or negative, as it 
 //is not possible to print a diamond of even or negative size.
 
+//examples:
+
+//A size 3 diamond:
+// *
+// ***
+// *
+
+//...which would appear as a string of " *\n***\n *\n"
+
