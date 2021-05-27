@@ -22,3 +22,8 @@
 
 //...which would appear as a string of " *\n***\n *\n"
 
+function diamond(n){
+    //code here
+    return diam;
+}
+
