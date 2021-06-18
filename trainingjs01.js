@@ -10,3 +10,8 @@
 // type the console.log() in the next line (don't forget to put the str in 
 // the brackets).
 
+function helloWorld(){
+    var str = "Hello World!"
+    console.log(str)
+}
+
