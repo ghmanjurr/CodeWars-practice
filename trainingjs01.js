@@ -15,3 +15,8 @@ function helloWorld(){
     console.log(str)
 }
 
+const helloWorld = () => {
+    var str = "Hello World!"
+    console.log(str)
+}
+
