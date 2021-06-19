@@ -23,8 +23,8 @@ function equal2(){
   return a-b;
 }
 function equal3(){
-  var a=   //set number value to a
-  var b=   //set number value to b
+  var a= v1  //set number value to a
+  var b= v5 //set number value to b
   return a*b;
 }
 function equal4(){
