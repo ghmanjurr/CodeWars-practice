@@ -18,8 +18,8 @@ function equal1(){
 }
 //Please refer to the example above to complete the following functions
 function equal2(){
-  var a=   //set number value to a
-  var b=   //set number value to b
+  var a= v4  //set number value to a
+  var b= v2  //set number value to b
   return a-b;
 }
 function equal3(){
