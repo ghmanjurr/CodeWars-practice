@@ -21,6 +21,8 @@ function getLength(arr){
   }
   function popElement(arr){
     //pop an element from arr
-    
-    return arr.pop()
+    arr.pop()
+    return arr
   }
+
+  
