@@ -8,3 +8,7 @@ function animal(obj){
     return `This ${obj.color} ${obj.name} has ${obj.legs} legs.`;
 }
 
+function animal(obj){
+    console.log(`This ${obj.color} ${obj.name} has ${obj.legs} legs.`) 
+}
+
