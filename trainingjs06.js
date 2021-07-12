@@ -3,3 +3,11 @@
 // if val value is false (val==false or it can convert to false), 
 // should return a string "false", if not, return a string "true".
 
+// function trueOrFalse(val){
+//     if (val===false || ){
+//         return "false"
+//     } else {
+//         return "true"
+//     }
+//   }
+
