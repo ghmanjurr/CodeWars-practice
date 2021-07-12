@@ -12,3 +12,20 @@ function animal(obj){
     console.log(`This ${obj.color} ${obj.name} has ${obj.legs} legs.`) 
 }
 
+const animal = (obj) => `This ${obj.color} ${obj.name} has ${obj.legs} legs.`;
+
+function animal(obj){
+    return "This" + ' ' + obj.color + ' ' + obj.name + ' ' + "has" + ' ' + obj.legs + ' ' + "legs."
+  }
+
+
+function animal({name, legs, color}) {
+    return `This ${color} ${name} has ${legs} legs.`;
+  }
+
+function animal(obj){
+    return "This " + obj.color + " " + obj.name + " has " + obj.legs + " legs.";
+  }
+
+
+
