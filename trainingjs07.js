@@ -14,6 +14,13 @@
 // |n>=10          |     90      |
 // +---------------+-------------+
 
-function saleHotDogs(n){
-    return 
+function saleHotdogs(n){
+    if (n<5) {
+        return (n*100)
+    } else if(n>=5 && n<10){
+        return (n*95)
+    } else {
+        return (n*90)
+    }
 }
+
