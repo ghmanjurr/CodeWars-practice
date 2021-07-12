@@ -4,3 +4,13 @@
 // different numbers have different prices (refer to the following table), 
 // return a number that the customer need to pay how much money.
 
+// +---------------+-------------+
+// |  numbers n    | price(cents)|
+// +---------------+-------------+
+// |n<5            |    100      |
+// +---------------+-------------+
+// |n>=5 and n<10  |     95      |
+// +---------------+-------------+
+// |n>=10          |     90      |
+// +---------------+-------------+
+
